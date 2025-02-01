@@ -31,3 +31,4 @@ Este projeto tem como objetivo simular o uso do AWS Textract para a extração d
 
 ![Tela 1](https://github.com/Fabisgb/meu-projeto-textract/blob/b9e0b5da7b644913303ccd76eb59d8b78e4e812f/Imagens/Documento%2017_page-00011.JPG)
 
+![Tela 2](https://github.com/Fabisgb/meu-projeto-textract/blob/0282d4d0a3bd8c18429b965ac0d2dd3f778262fa/Imagens/Documento%2018_page-00011.JPG)
