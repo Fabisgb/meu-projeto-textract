@@ -23,7 +23,7 @@ Este projeto tem como objetivo simular o uso do AWS Textract para a extração d
    python simulate_textract.py
 
 ## Possíveis Melhorias e Insights
-- **Integração Real com AWS Textract**: Após a simulação, é possível integrar o boto3 para chamar o serviço real do Textract, utilizando o nível gratuito da AWS (:smile: este não é o meu caso, só pago).
+- **Integração Real com AWS Textract**: Após a simulação, é possível integrar o boto3 para chamar o serviço real do Textract, utilizando o nível gratuito da AWS ( 😂 este não é o meu caso, só pago).
 - **Análise de Dados Extraídos**: Implementar uma camada de análise dos dados retornados, como processamento de informações extraídas e integração com outras ferramentas.
 - **Interface Web**: Criar uma interface para upload de documentos e visualização dos resultados, tornando a aplicação mais interativa.
 
