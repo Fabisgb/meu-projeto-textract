@@ -28,3 +28,6 @@ Este projeto tem como objetivo simular o uso do AWS Textract para a extração d
 - **Interface Web**: Criar uma interface para upload de documentos e visualização dos resultados, tornando a aplicação mais interativa.
 
 ## Prints e Demonstrações
+
+![Tela 1](imagens/exemplo.png)
+
